@@ -23,10 +23,11 @@ My journey in cybersecurity is just beginning, and I’m constantly seeking oppo
 
 4. Nmap
 
-5. Ethical Hacking (Kali Linux, Metasploit)
+5. Ethical Hacking (Kali Linux, Metasploit, Gobuster, Burpsuite, e.g.)
 
   # :closed_book: Certifications
   
   - `Google Cybersecurity Certificate`
   - `Jr Penetration Tester - TryHackMe`
   - `Web Fundamentals - TryHackMe`
+  - `Cybersecurity Fundamentals - IBM`
