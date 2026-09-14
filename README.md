@@ -1,54 +1,30 @@
-<h1 align="center">Hey, I'm b0xb0x :wave:</h1>
+# :v: Introduction 
 
-<p align="center">
-  <em>Cybersecurity & software engineering student · script-kiddie in training · breaking things to learn how they're built</em>
-</p>
+## I'm  :point_right: ***b0xb0x*** :point_left: just a scrip-kiddy and random guy that you come across.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-</p>
+## :metal: About Me :male_detective:
 
----
+I am a motivated student with strong interests in both cybersecurity and software engineering. I am focused on understanding how software systems are designed, implemented, and secured across the full development lifecycle. My interests lie at the intersection of secure software development, system architecture, and defensive security practices.
 
-## :male_detective: About Me
+I am particularly interested in areas such as network and application security, secure coding principles, vulnerability analysis, and threat detection. From a software engineering perspective, I enjoy building and analyzing systems with an emphasis on correctness, performance, and security, while applying best practices in programming, version control, and testing.
 
-I'm a student who sits at the crossroads of **cybersecurity** and **software engineering**. I care about how systems are designed, built, and defended across the whole development lifecycle, not just how they break.
+Through hands-on projects, labs, and self-directed learning, I aim to strengthen both my engineering foundations and security skill set. I am actively seeking opportunities to collaborate, contribute to real-world projects, and continue developing as a security-aware software engineer.
 
-- :mag: **Interested in:** network & application security, secure coding, vulnerability analysis, threat detection
-- :hammer_and_wrench: **Building with:** an emphasis on correctness, performance, and security, plus proper version control and testing
-- :seedling: **Currently:** grinding labs, writing up CTFs, and documenting everything I learn
-- :handshake: **Open to:** collaboration and contributing to real-world projects
+# :computer: Skills 
 
-## :trophy: Achievements
+1. Network Security
 
-| | |
-|---|---|
-| :christmas_tree: | Completed **Advent of Cyber 2025** on TryHackMe |
-| :books: | Author of [**WebSecurityAcademyDocs**](https://github.com/tkhnnh/WebSecurityAcademyDocs), my notes and walkthroughs of PortSwigger's Web Security Academy |
-| :triangular_flag_on_post: | Author of [**CTF**](https://github.com/tkhnnh/CTF), a growing collection of cybersecurity CTF write-ups |
+2. Linux
 
-## :computer: Skills
+3. Python & Bash Scripting
 
-| Area | Tools & Tech |
-|---|---|
-| **Network Security** | Nmap, Wireshark-style packet analysis |
-| **Web & Ethical Hacking** | Burp Suite, Metasploit, Gobuster |
-| **Operating Systems** | Linux, Kali Linux |
-| **Scripting** | Python, Bash |
+4. Nmap
 
-## :closed_book: Certifications
+5. Ethical Hacking (Kali Linux, Metasploit, Gobuster, Burpsuite, e.g.)
 
-- :white_check_mark: **Google Cybersecurity Certificate** – Google
-- :white_check_mark: **Jr Penetration Tester** – TryHackMe
-- :white_check_mark: **Web Fundamentals** – TryHackMe
-- :white_check_mark: **Cybersecurity Fundamentals** – IBM
-
----
-
-<p align="center">
-  <a href="https://github.com/tkhnnh/CTF">CTF Write-ups</a> · <a href="https://github.com/tkhnnh/WebSecurityAcademyDocs">Web Security Notes</a>
-</p>
+  # :closed_book: Certifications
+  
+  - `Google Cybersecurity Certificate`
+  - `Jr Penetration Tester - TryHackMe`
+  - `Web Fundamentals - TryHackMe`
+  - `Cybersecurity Fundamentals - IBM`
