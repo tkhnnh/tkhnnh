@@ -18,6 +18,10 @@ Through hands-on projects, labs, and self-directed study, I continue to strength
 - **Reconnaissance and Enumeration** – Nmap, Gobuster
 - **Penetration Testing** – Kali Linux, Metasploit, Burp Suite
 
+## :hammer_and_wrench: Projects
+
+- :shield: [**PhishGuard**](https://github.com/tkhnnh/phishguard) *(in active development)*: a Chrome extension that flags phishing emails directly in Gmail. It is backed by a FastAPI service that combines local heuristics (lookalike domains, Reply-To mismatch, SPF/DKIM/DMARC checks), threat-reputation feeds (Google Safe Browsing, OpenPhish, URLhaus) and ML models. Each email gets a risk score, a verdict and the signals behind it.
+
 ## :trophy: Achievements
 
 - :christmas_tree: Completed **Advent of Cyber 2025** on TryHackMe
